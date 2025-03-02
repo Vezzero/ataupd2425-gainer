@@ -7,3 +7,6 @@ scikit-learn==1.2.0
 contractions
 beautifulsoup4
 unidecode
+transformers
+datasets
+
