@@ -14,6 +14,28 @@ This repository contains the official implementation of our biomedical informati
 - **High Performance**: State-of-the-art results on BioASQ benchmark datasets
 - **Production-Ready**: Easy integration with BioASQ pipeline systems
 
+## Named Entity Recognition (NER) Subtask
+
+In this project it has been used the GLiNER architecture (https://arxiv.org/abs/2311.08526).
+In particular, the model NuNer_Zero (https://huggingface.co/numind/NuNER_Zero) was finetuned for the NER task obtaining the following results:
+
+| Metric     | Score     |
+|------------|-----------|
+| **Micro-Precision** | 80.17%  |
+| **Micro-Recall**    | 69.47%  |
+| **Micro-F1-Score**  | 74.44%  |
+
+
+## Relation Extraction (RE) Subtask
+
+It has been used the PubMedBERT Model (microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext) finetuned for the RE task obtaining the following results:
+
+| Metric     | Score     |
+|------------|-----------|
+| **Micro-Precision** | 59.78%  |
+| **Micro-Recall**    | 73.64%  |
+| **Micro-F1-Score**  | 65.99%  |
+
 ## Installation
 
 1. Clone repository:
@@ -32,12 +54,3 @@ python -m spacy download en_core_sci_sm
 ## Contributors: 
 
 Samuel Piron - MSc student of Computer Engineering at the University of Padua
-
-@misc{bioasq2025-task6,
-  title={Advanced Biomedical Information Extraction for BioASQ Challenge},
-  author={Your Name},
-  year={2025},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/Vezzero/ataupd2425-gainer}}
-}
-
