@@ -81,9 +81,9 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 │   ├── merged_dataset.json
 │   └── testmergednorel.json
 ├── NER Model               # Contains the NER model implementation and prediction code
-│   └── NERImplementation.ipynb
+│   └── nerimplementation.ipynb
 ├── RE Model                # Contains the RE model implementation and prediction code
-│   └── REImplementation.ipynb
+│   └── reimplementation.ipynb
 ├── dataaugmentation.ipynb  # Notebook for dataset augmentation
 ├── datamanipulation.ipynb  # Notebook for data manipulation
 └── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
