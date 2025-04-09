@@ -86,8 +86,9 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 │   └── reimplementation.ipynb
 ├── dataaugmentation.ipynb  # Notebook for dataset augmentation
 ├── datamanipulation.ipynb  # Notebook for data manipulation
-└── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
+├── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
 ├── runs                    # Contains the NER and RE runs of the subtasks
+└── slides                  # Contains the slides of the Project presentation
 ```
 ## Training Setup
 To train the models and generate predictions the following GPU environments were utilized:
