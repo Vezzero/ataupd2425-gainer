@@ -1,0 +1,3937 @@
+{
+  "35654142": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "32816830": {
+    "ternary_tag_based_relations": []
+  },
+  "30659564": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38283894": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "36072680": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37127945": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "change abundance",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "36411639": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32545788": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33664475": {
+    "ternary_tag_based_relations": []
+  },
+  "30072879": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32572814": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30828318": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31148353": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "chemical"
+      }
+    ]
+  },
+  "31821833": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "33063712": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36462169": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "27698624": {
+    "ternary_tag_based_relations": []
+  },
+  "36332796": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "33938181": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "interact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      }
+    ]
+  },
+  "31917834": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38123016": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "25231862": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33677218": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "animal",
+        "predicate": "target",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36938477": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31940482": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_label": "chemical"
+      }
+    ]
+  },
+  "33416892": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34589800": {
+    "ternary_tag_based_relations": []
+  },
+  "32600151": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31302116": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "34970638": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "animal",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "35069178": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36931666": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38686220": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "35798742": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "part of",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37655441": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "36651663": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "36816743": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31330299": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32188376": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "27319972": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34437440": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36699448": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37193253": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33505487": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34399524": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "33807447": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "change abundance",
+        "object_label": "food"
+      }
+    ]
+  },
+  "34692176": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31539679": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "32605552": {
+    "ternary_tag_based_relations": []
+  },
+  "35207632": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37607587": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "21167931": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32517799": {
+    "ternary_tag_based_relations": []
+  },
+  "35317228": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "33287442": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "25173628": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "change expression",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "change expression",
+        "object_label": "gene"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32431588": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33819374": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "28843021": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "change abundance",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34004259": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "33301807": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "27930574": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "32667590": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "30033172": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "27763700": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31383280": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38606411": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32983561": {
+    "ternary_tag_based_relations": []
+  },
+  "28073356": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "37764277": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34357134": {
+    "ternary_tag_based_relations": []
+  },
+  "37049591": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "32834004": {
+    "ternary_tag_based_relations": []
+  },
+  "37156128": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "change abundance",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31769847": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "administered",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "impact",
+        "object_label": "dietary supplement"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "36072564": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "31596658": {
+    "ternary_tag_based_relations": []
+  },
+  "30518033": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "34216356": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "26627987": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "35203906": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "35571084": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31488882": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "37502424": {
+    "ternary_tag_based_relations": []
+  },
+  "38011787": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30317530": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37400971": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "31132457": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "28852308": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "34408160": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "gene",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31726457": {
+    "ternary_tag_based_relations": []
+  },
+  "31377712": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38331354": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38045924": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "33692356": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "statistical technique",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "27566465": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "34448737": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "29249803": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "drug",
+        "predicate": "administered",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      }
+    ]
+  },
+  "32379622": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "37023596": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "28816544": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31218116": {
+    "ternary_tag_based_relations": []
+  },
+  "34250955": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33092203": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "32163822": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "32538869": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34884399": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      }
+    ]
+  },
+  "33406628": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31260640": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "28399458": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "30826885": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "27793225": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "impact",
+        "object_label": "food"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "impact",
+        "object_label": "dietary supplement"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "24103493": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33967849": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "35281490": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "26426677": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "38401573": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34908715": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "29955222": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37291666": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "26408987": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "animal",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "drug"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38292207": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "34311029": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "dietary supplement"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34836918": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "part of",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37900921": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "impact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34204057": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33318317": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "34704023": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "28629758": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "36191806": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "animal",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "37485386": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33936013": {
+    "ternary_tag_based_relations": []
+  },
+  "33467657": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "36707651": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "34589852": {
+    "ternary_tag_based_relations": []
+  },
+  "33693453": {
+    "ternary_tag_based_relations": []
+  },
+  "37764088": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31255682": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "37576972": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "38432867": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "35565918": {
+    "ternary_tag_based_relations": []
+  },
+  "33076930": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "drug"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30258234": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "33963284": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32518376": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32819434": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "gene",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "34576000": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38247868": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34357554": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31154909": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "28442250": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33895287": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30701194": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36989335": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34988495": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "32890382": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34147969": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "gene",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "animal",
+        "predicate": "target",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "animal",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34014031": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34576833": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37624502": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36056574": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "used by",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "33514545": {
+    "ternary_tag_based_relations": []
+  },
+  "31750916": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "located in",
+        "object_label": "food"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34074025": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "24956966": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30528936": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37995475": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38278499": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38679353": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38664425": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33454868": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31498131": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33782648": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "32739746": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33860090": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33240722": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38302874": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "38229613": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "26129950": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "food"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "food"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "32155131": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "chemical"
+      }
+    ]
+  },
+  "37468912": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37449597": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32987656": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31493127": {
+    "ternary_tag_based_relations": []
+  },
+  "31568686": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32056910": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "36986165": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "24798884": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "33244049": {
+    "ternary_tag_based_relations": []
+  },
+  "33651324": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33825149": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33144709": {
+    "ternary_tag_based_relations": []
+  },
+  "36881806": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "is linked to",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "33899052": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "biomedical technique",
+        "predicate": "used by",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "32772900": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "31722343": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "27900676": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "26190966": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  },
+  "35722294": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38260914": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34032650": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34277527": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36216056": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37834373": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34002020": {
+    "ternary_tag_based_relations": []
+  },
+  "31704402": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "35327401": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "34520319": {
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "DDF"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_label": "human"
+      }
+    ]
+  }
+}
