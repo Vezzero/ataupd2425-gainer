@@ -28,14 +28,33 @@ Performance on dev.json:
 
 ## Relation Extraction (RE) Subtask
 
+
 The RE model is based on the PubMedBERT architecture (microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext). It is fine-tuned specifically for detecting and classifying relationships between biomedical entities.
 Performance on dev.json:
+
+- Binary Tag Based Relation Extraction
 
 | Metric     | Score     |
 |------------|-----------|
 | **Micro-Precision** | 59.78%  |
 | **Micro-Recall**    | 73.64%  |
 | **Micro-F1-Score**  | 65.99%  |
+
+- Ternary Tag Based Relation Extraction
+
+| Metric     | Score     |
+|------------|-----------|
+| **Micro-Precision** | 81.00%  |
+| **Micro-Recall**    | 35.22%  |
+| **Micro-F1-Score**  | 49.09%  |
+
+- Ternary Mention Based Relation Extraction
+
+| Metric     | Score     |
+|------------|-----------|
+| **Micro-Precision** | 65.73%  |
+| **Micro-Recall**    | 58.21%  |
+| **Micro-F1-Score**  | 61.74%  |
 
 ## Installation
 
@@ -58,7 +77,9 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 ```
 ├── Assets                  # Contains the datasets used in the project
 │   ├── Annotations
-│   └── Articles
+│   ├── Articles
+│   ├── merged_dataset.json
+│   └── testmergednorel.json
 ├── NER Model               # Contains the NER model implementation and prediction code
 │   └── NERImplementation.ipynb
 ├── RE Model                # Contains the RE model implementation and prediction code
@@ -66,6 +87,7 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 ├── dataaugmentation.ipynb  # Notebook for dataset augmentation
 ├── datamanipulation.ipynb  # Notebook for data manipulation
 └── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
+├── runs                    # Contains the NER and RE runs of the subtasks
 ```
 ## Training Setup
 To train the models and generate predictions the following GPU environments were utilized:
