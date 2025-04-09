@@ -55,7 +55,7 @@ pip install torch transformers tqdm scikit-learn spacy textattack gliner==0.1.12
 Navigate through the repository to locate the relevant notebooks. Open and run them using Jupyter Notebook or JupyterLab to reproduce the experiments and evaluate model performance.
 
 ## Project Structure
-
+```
 ├── Assets                  # Contains the datasets used in the project
 │   ├── Annotations
 │   └── Articles
@@ -66,7 +66,7 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 ├── dataaugmentation.ipynb  # Notebook for dataset augmentation
 ├── datamanipulation.ipynb  # Notebook for data pre-processing and manipulation
 └── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
-
+```
 ## Training Setup
 To train the models and generate predictions the following GPU environments were utilized:
 
