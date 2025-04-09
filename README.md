@@ -64,7 +64,7 @@ Navigate through the repository to locate the relevant notebooks. Open and run t
 ├── RE Model                # Contains the RE model implementation and prediction code
 │   └── REImplementation.ipynb
 ├── dataaugmentation.ipynb  # Notebook for dataset augmentation
-├── datamanipulation.ipynb  # Notebook for data pre-processing and manipulation
+├── datamanipulation.ipynb  # Notebook for data manipulation
 └── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
 ```
 ## Training Setup

@@ -57374,9 +57374,9 @@
             },
             {
                 "start_idx": 1395,
-                "end_idx": 1412,
+                "end_idx": 1417,
                 "location": "abstract",
-                "text_span": "Ruminococcusgnavus",
+                "text_span": "Ruminococcusgnavusgroup",
                 "label": "bacteria"
             },
             {
@@ -140691,9 +140691,9 @@
             },
             {
                 "start_idx": 92,
-                "end_idx": 94,
+                "end_idx": 95,
                 "location": "title",
-                "text_span": "TAM",
+                "text_span": "TAMs",
                 "label": "gene"
             },
             {
@@ -140810,9 +140810,9 @@
             },
             {
                 "start_idx": 435,
-                "end_idx": 451,
+                "end_idx": 452,
                 "location": "abstract",
-                "text_span": "Intestinal tissue",
+                "text_span": "Intestinal tissues",
                 "label": "anatomical location"
             },
             {
@@ -208851,16 +208851,16 @@
             },
             {
                 "start_idx": 74,
-                "end_idx": 76,
+                "end_idx": 77,
                 "location": "abstract",
-                "text_span": "SGM",
+                "text_span": "SGMs",
                 "label": "DDF"
             },
             {
                 "start_idx": 266,
-                "end_idx": 287,
+                "end_idx": 288,
                 "location": "abstract",
-                "text_span": "cisgender heterosexual",
+                "text_span": "cisgender heterosexuals",
                 "label": "human"
             },
             {
@@ -208893,16 +208893,16 @@
             },
             {
                 "start_idx": 695,
-                "end_idx": 697,
+                "end_idx": 698,
                 "location": "abstract",
-                "text_span": "SGM",
+                "text_span": "SGMs",
                 "label": "DDF"
             },
             {
                 "start_idx": 713,
-                "end_idx": 734,
+                "end_idx": 735,
                 "location": "abstract",
-                "text_span": "cisgender-heterosexual",
+                "text_span": "cisgender-heterosexuals",
                 "label": "human"
             },
             {
@@ -209020,9 +209020,9 @@
                 "subject_label": "DDF",
                 "predicate": "target",
                 "object_start_idx": 266,
-                "object_end_idx": 287,
+                "object_end_idx": 288,
                 "object_location": "abstract",
-                "object_text_span": "cisgender heterosexual",
+                "object_text_span": "cisgender heterosexuals",
                 "object_label": "human"
             },
             {
@@ -209046,9 +209046,9 @@
                 "subject_label": "anatomical location",
                 "predicate": "located in",
                 "object_start_idx": 713,
-                "object_end_idx": 734,
+                "object_end_idx": 735,
                 "object_location": "abstract",
-                "object_text_span": "cisgender-heterosexual",
+                "object_text_span": "cisgender-heterosexuals",
                 "object_label": "human"
             },
             {
@@ -209059,9 +209059,9 @@
                 "subject_label": "anatomical location",
                 "predicate": "located in",
                 "object_start_idx": 713,
-                "object_end_idx": 734,
+                "object_end_idx": 735,
                 "object_location": "abstract",
-                "object_text_span": "cisgender-heterosexual",
+                "object_text_span": "cisgender-heterosexuals",
                 "object_label": "human"
             },
             {
@@ -234113,9 +234113,9 @@
             },
             {
                 "start_idx": 764,
-                "end_idx": 770,
+                "end_idx": 771,
                 "location": "abstract",
-                "text_span": "patient",
+                "text_span": "patients",
                 "label": "human"
             },
             {
@@ -268433,9 +268433,9 @@
             },
             {
                 "start_idx": 1397,
-                "end_idx": 1407,
+                "end_idx": 1408,
                 "location": "abstract",
-                "text_span": "IBS symptom",
+                "text_span": "IBS symptoms",
                 "label": "DDF"
             }
         ],
@@ -268539,9 +268539,9 @@
                 "subject_label": "microbiome",
                 "predicate": "is linked to",
                 "object_start_idx": 1397,
-                "object_end_idx": 1407,
+                "object_end_idx": 1408,
                 "object_location": "abstract",
-                "object_text_span": "IBS symptom",
+                "object_text_span": "IBS symptoms",
                 "object_label": "DDF"
             },
             {
@@ -268578,9 +268578,9 @@
                 "subject_label": "food",
                 "predicate": "influence",
                 "object_start_idx": 1397,
-                "object_end_idx": 1407,
+                "object_end_idx": 1408,
                 "object_location": "abstract",
-                "object_text_span": "IBS symptom",
+                "object_text_span": "IBS symptoms",
                 "object_label": "DDF"
             }
         ],
