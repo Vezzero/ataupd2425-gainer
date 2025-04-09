@@ -16,8 +16,8 @@ This repository contains the official implementation of a biomedical information
 
 ## Named Entity Recognition (NER) Subtask
 
-In this project it has been used the GLiNER architecture (https://arxiv.org/abs/2311.08526).
-In particular, the model NuNer_Zero (https://huggingface.co/numind/NuNER_Zero) was finetuned for the NER task obtaining the following results:
+The NER subtask is powered by the GLiNER architecture (https://arxiv.org/abs/2311.08526) and leverages the fine-tuned NuNer_Zero available on (https://huggingface.co/numind/NuNER_Zero).
+Performance on dev.json:
 
 | Metric     | Score     |
 |------------|-----------|
@@ -28,7 +28,8 @@ In particular, the model NuNer_Zero (https://huggingface.co/numind/NuNER_Zero) w
 
 ## Relation Extraction (RE) Subtask
 
-It has been used the PubMedBERT Model (microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext) finetuned for the RE task obtaining the following results:
+The RE model is based on the PubMedBERT architecture (microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext). It is fine-tuned specifically for detecting and classifying relationships between biomedical entities.
+Performance on dev.json:
 
 | Metric     | Score     |
 |------------|-----------|
@@ -38,38 +39,53 @@ It has been used the PubMedBERT Model (microsoft/BiomedNLP-BiomedBERT-base-uncas
 
 ## Installation
 
-1. Clone repository:
+To set up the project on your local machine, follow these steps:
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/Vezzero/ataupd2425-gainer.git
 cd ataupd2425-gainer
 ```
 2. Install dependencies:
+Ensure you have Python installed (https://www.python.org/) version > 3.8. Then install the required packages:
 ```bash
 pip install torch transformers tqdm scikit-learn spacy textattack gliner==0.1.12
 ```
-## Porject Structure
+3. Launch the Notebooks: 
+Navigate through the repository to locate the relevant notebooks. Open and run them using Jupyter Notebook or JupyterLab to reproduce the experiments and evaluate model performance.
 
-- Assets
-    - Annotations
-    - Articles
-- NER Model
-    - NERImplementation.ipynb
-- RE Model
-    - REImplementation.ipynb
-- dataaugmentation.ipynb
-- datamanipulation.ipynb
-- evaluationMartinelli.ipynb
+## Project Structure
 
-## Training Devices
-To train the NER Model, the RE Model and to make predictions the following GPU devices have been used:
+├── Assets                  # Contains the datasets used in the project
+│   ├── Annotations
+│   └── Articles
+├── NER Model               # Contains the NER model implementation and prediction code
+│   └── NERImplementation.ipynb
+├── RE Model                # Contains the RE model implementation and prediction code
+│   └── REImplementation.ipynb
+├── dataaugmentation.ipynb  # Notebook for dataset augmentation
+├── datamanipulation.ipynb  # Notebook for data pre-processing and manipulation
+└── evaluationMartinelli.ipynb  # Notebook for evaluating model predictions
 
-- Tesla T4 GPU Google Colab (https://colab.research.google.com/)
+## Training Setup
+To train the models and generate predictions the following GPU environments were utilized:
 
-- NVIDIA T4 x 2 GPU Kaggle (https://www.kaggle.com/)
+- Tesla T4 GPU Google Colab: (https://colab.research.google.com/)
 
-- 8x NVIDIA A40 GPU DEI Machines (https://docs.dei.unipd.it/)
+- NVIDIA T4 x 2 GPU Kaggle: (https://www.kaggle.com/)
 
+- 8x NVIDIA A40 GPU DEI Machines: (https://docs.dei.unipd.it/)
 
-## Contributors: 
+## Usage
+The repository includes Jupyter notebooks that demonstrate how to:
+- Train the models: Step-by-step guides to fine-tune both NER and RE models on PubMed datasets.
+- Perform predictions: Scripts for predicting entities and relations in new datasets.
+- Evaluate performance: Notebooks that facilitate comprehensive evaluation using metrics such as precision, recall, and F1-score.
 
-Samuel Piron - MSc student of Computer Engineering at the University of Padua
+## Contributors
+
+Samuel Piron - MSc Student,  Computer Engineering,  University of Padua
+
+## Licence
+
+This project is licensed under the MIT License (https://opensource.org/license/MIT). 
