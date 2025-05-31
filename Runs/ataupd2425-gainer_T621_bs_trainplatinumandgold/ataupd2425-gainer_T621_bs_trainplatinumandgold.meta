@@ -1,0 +1,40 @@
+-TeamID: ataupd2425-gainer
+
+-TaskID: 6.2.1
+
+-RunID: BS
+
+-Training applied:
+1) I split samples into train_test split an 80/20 train/validation set.
+
+2) I fine-tuned a BertForSequenceClassification (in this case i used the NeuML/pubmedbert-base-embeddings) for 5 epochs, using a batch size of 8 and a learning rate of 2e-5 under an AdamW optimizer.
+
+3) A linear warm-up schedule (no warm-up steps here) adjusts the learning rate over total_steps = epochs × steps_per_epoch.
+
+4) During each training step I compute: cross-entropy loss, backpropagate, clip gradients, update both optimizer and scheduler.
+
+5) Once training completes, I save the fine-tuned model.
+
+-Pre-processing applied: 
+1) First I load each article’s JSON entry: extracting its title, abstract, entities, and relations.
+
+2) The entities are split into “title” and “abstract” , I keep the offset of the abstract ones.
+
+3) For every positive relation (subject–predicate–object pair) entirely in the title or entirely in the abstract, I insert special markers [E1][/E1] around the subject span and [E2][/E2] around the object span in the raw text.
+
+4) I added the negative samples and the negative ratio, in this case 0.3.
+
+5) The marked sentences become the samples of the training dataset; during this phase I build a dictionary to keep the relations and the no_relation label and mapping them to a number (ex 1: interact).
+
+6) Apply the tokenizer to each marked sentence with a BERT tokenizer, padding or truncating to 256 tokens.
+
+-Training data: train_platinum.json, train_gold.json and train_silver.json
+
+-Relevant details:
+
+The negative ratio helped the model to discover the valid samples from the non valid one. The entity markers helped the model to map and learn the relations between entities.
+The NER entities that are in the TEST dataset come from the ataupd2425-gainer_T61_ma_trainplatinumandgold MODEL.
+
+-Github link:
+
+https://github.com/Vezzero/ataupd2425-gainer

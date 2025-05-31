@@ -1,0 +1,35 @@
+-TeamID: ataupd2425-gainer
+
+-TaskID: 6.1
+
+-RunID: MA
+
+-Training applied:
+1) Model Initialization: I load the pretrained numind/NuNerZero GLiNER model.
+
+2) Sampling Configuration: I configure the model’s internal sampler with parameters: maximum number of types per example, shuffle, randomly drop types, negative‐type ratio, and maximum sequence length.
+
+3) Optimizer & Scheduler: I get an optimizer with a lower learning rate for the encoder (1e-5). I warp it in a cosine learning‐rate schedule with a warmup phase that is the 10% of the steps defined before.
+
+4) Training Loop: I defined the num steps, in this case 6000 and the max_length of the tokens to 356. I define also the batch size (2) and shuffle false.
+Inside the loop it backpropagate, step the optimizer, update the LR scheduler and zero gradients
+
+5) Saving: After that the training finished I saved it to use to make predictions with the test set.
+
+-Pre-processing applied: 
+1) Data Loading: I read a JSON file: each article has metadata (title, abstract, etc.) and entities (character‐level spans with labels).
+
+2) Text Composition: For each article, I concatenate the title and abstract into one long string, separated by a space and i keep the articles' offset.
+
+3) Tokenization: The Microsoft DeBERTa-v3-large tokenizer was used to split this combined text into subword tokens and record the character‐offsets of each token.
+
+4) Span Conversion: I take every entity’s character‐level start/end positions (title or abstract), adjust offsets when the entity is in the abstract, and then map those character spans onto the token indices whose offsets overlap the span. With this, it creates a list of (token_start, token_end, label) triples for each sample.
+
+-Training data: train_platinum.json and train_gold.json
+
+-Relevant details:
+
+The hyperparameters were found using a script with an hyperparameter tuning. The use of GLINER PRETRAINED MODEL helped to make better NER predictions and to train the NER model.
+-Github link:
+
+https://github.com/Vezzero/ataupd2425-gainer

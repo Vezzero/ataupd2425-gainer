@@ -14,47 +14,11 @@ This repository contains the official implementation of a biomedical information
 - **High Performance**: State-of-the-art results on BioASQ benchmark datasets
 - **Production-Ready**: Easy integration with BioASQ pipeline systems
 
-## Named Entity Recognition (NER) Subtask
+## Results
 
-The NER subtask is powered by the GLiNER architecture (https://arxiv.org/abs/2311.08526) and leverages the fine-tuned NuNer_Zero available on (https://huggingface.co/numind/NuNER_Zero).
-Performance on dev.json:
+Results are available on the paper folder:
 
-| Metric     | Score     |
-|------------|-----------|
-| **Micro-Precision** | 80.17%  |
-| **Micro-Recall**    | 69.47%  |
-| **Micro-F1-Score**  | 74.44%  |
-
-
-## Relation Extraction (RE) Subtask
-
-
-The RE model is based on the PubMedBERT architecture (microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext). It is fine-tuned specifically for detecting and classifying relationships between biomedical entities.
-Performance on dev.json:
-
-- Binary Tag Based Relation Extraction
-
-| Metric     | Score     |
-|------------|-----------|
-| **Micro-Precision** | 59.78%  |
-| **Micro-Recall**    | 73.64%  |
-| **Micro-F1-Score**  | 65.99%  |
-
-- Ternary Tag Based Relation Extraction
-
-| Metric     | Score     |
-|------------|-----------|
-| **Micro-Precision** | 81.00%  |
-| **Micro-Recall**    | 35.22%  |
-| **Micro-F1-Score**  | 49.09%  |
-
-- Ternary Mention Based Relation Extraction
-
-| Metric     | Score     |
-|------------|-----------|
-| **Micro-Precision** | 65.73%  |
-| **Micro-Recall**    | 58.21%  |
-| **Micro-F1-Score**  | 61.74%  |
+- Paper
 
 ## Installation
 
